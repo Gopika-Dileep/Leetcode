@@ -1,0 +1,33 @@
+
+// question number 2006 
+// 2006. Count Number of Pairs With Absolute Difference K
+
+// var countKDifference = function(nums, k) {
+//     let count =0
+//     for(let i = 0 ; i< nums.length ; i++ ){
+//         for(let j = i+1; j<nums.length ; j++){
+//             if((Math.abs(nums[i]-nums[j])) == k){
+//                 count++
+//             }
+//         }
+//     }
+//     return count
+// };
+
+
+// 
+
+
+// question Number = 3146
+// 3146. Permutation Difference between Two Strings
+
+// var findPermutationDifference = function(s, t) {
+
+//     let sum =0
+//     for(let i = 0; i < s.length ; i ++){
+//         let j = t.indexOf(s[i])
+//         sum += Math.abs(i-j)
+//     }
+//     return sum 
+    
+// };
