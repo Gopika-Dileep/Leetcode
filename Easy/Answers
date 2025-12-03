@@ -40,3 +40,24 @@
 // async function sleep(millis) {
 //     await new Promise(resolve =>setTimeout(resolve,millis))
 // }
+
+
+// question number = 389
+// 389. Find the Difference
+
+// var findTheDifference = function(s, t) {
+//    let freq ={}
+//    for(let i = 0 ; i <s.length;i++){
+//     freq[s[i]] = (freq[s[i]]||0)+1
+//    }
+//     let freqs={}
+//     for(let j =0 ; j<t.length;j++){
+//         freqs[t[j]] = (freqs[t[j]]||0)+1
+//     }
+
+//      for(let key in freqs){
+//         if(!freq[key]||freq[key]!==freqs[key]){
+//             return key
+//         }
+//      }
+// };
