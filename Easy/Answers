@@ -61,3 +61,28 @@
 //         }
 //      }
 // };
+
+
+
+// question 728
+// 728. Self Dividing Numbers
+
+// var selfDividingNumbers = function(left, right) {
+//     let result =[]
+//     for(let n = left ; n<=right;n++ ){
+//         let curr = n
+//         let flag = 0
+//         while(curr>0){
+//             let val = curr%10
+//             if(val ===0 || n%val!==0){
+//                 flag = 1
+//                 break
+//             }
+//             curr = Math.floor(curr/10)
+//         }
+//         if(flag==0){
+//             result.push(n)
+//         }
+//     }
+//     return result
+// };
