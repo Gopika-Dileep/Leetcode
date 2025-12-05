@@ -86,3 +86,24 @@
 //     }
 //     return result
 // };
+
+
+
+// question number - 1827
+// 1827. Minimum Operations to Make the Array Increasing
+
+// var minOperations = function(nums) {
+//     let count = 0
+//     for(let i =0 ; i<nums.length;i++){
+//         for(j=0;j<nums[i];j++){
+//             if(nums[j]>=nums[j+1]){
+//                 let diff = nums[j]-nums[j+1]
+//                 for(let k = 0; k<=diff;k++){
+//                     nums[j+1]+=1
+//                     count++
+//                 }
+//             }
+//         }
+//     }
+//     return count
+// };
