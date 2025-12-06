@@ -5,8 +5,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Gopika-Dileep/Leetcode/tree/master/0001-two-sum) |
+| [1051-height-checker](https://github.com/Gopika-Dileep/Leetcode/tree/master/1051-height-checker) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Gopika-Dileep/Leetcode/tree/master/0001-two-sum) |
+## Sorting
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Gopika-Dileep/Leetcode/tree/master/1051-height-checker) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Gopika-Dileep/Leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
