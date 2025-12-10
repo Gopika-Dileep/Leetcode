@@ -27,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/Gopika-Dileep/Leetcode/tree/master/1925-count-square-sum-triples) |
+## String
+|  |
+| ------- |
+| [3110-score-of-a-string](https://github.com/Gopika-Dileep/Leetcode/tree/master/3110-score-of-a-string) |
 <!---LeetCode Topics End-->
