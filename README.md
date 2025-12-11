@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Gopika-Dileep/Leetcode/tree/master/0050-powx-n) |
 | [1925-count-square-sum-triples](https://github.com/Gopika-Dileep/Leetcode/tree/master/1925-count-square-sum-triples) |
 ## Enumeration
 |  |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3110-score-of-a-string](https://github.com/Gopika-Dileep/Leetcode/tree/master/3110-score-of-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Gopika-Dileep/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
