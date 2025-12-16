@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Gopika-Dileep/Leetcode/tree/master/0001-two-sum) |
 | [0506-relative-ranks](https://github.com/Gopika-Dileep/Leetcode/tree/master/0506-relative-ranks) |
 | [1051-height-checker](https://github.com/Gopika-Dileep/Leetcode/tree/master/1051-height-checker) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Gopika-Dileep/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Gopika-Dileep/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Gopika-Dileep/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Gopika-Dileep/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0506-relative-ranks](https://github.com/Gopika-Dileep/Leetcode/tree/master/0506-relative-ranks) |
 | [1051-height-checker](https://github.com/Gopika-Dileep/Leetcode/tree/master/1051-height-checker) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Gopika-Dileep/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Gopika-Dileep/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Counting Sort
 |  |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Gopika-Dileep/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Gopika-Dileep/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
