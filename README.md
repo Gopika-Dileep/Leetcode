@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Gopika-Dileep/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Gopika-Dileep/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Gopika-Dileep/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Gopika-Dileep/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Gopika-Dileep/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Gopika-Dileep/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Gopika-Dileep/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Gopika-Dileep/Leetcode/tree/master/0050-powx-n) |
 | [1925-count-square-sum-triples](https://github.com/Gopika-Dileep/Leetcode/tree/master/1925-count-square-sum-triples) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Gopika-Dileep/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Gopika-Dileep/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Gopika-Dileep/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Enumeration
