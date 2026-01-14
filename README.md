@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Gopika-Dileep/Leetcode/tree/master/1051-height-checker) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Gopika-Dileep/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1470-shuffle-the-array](https://github.com/Gopika-Dileep/Leetcode/tree/master/1470-shuffle-the-array) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Gopika-Dileep/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1732-find-the-highest-altitude](https://github.com/Gopika-Dileep/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Gopika-Dileep/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Gopika-Dileep/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0771-jewels-and-stones](https://github.com/Gopika-Dileep/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Gopika-Dileep/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Gopika-Dileep/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Gopika-Dileep/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Gopika-Dileep/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Gopika-Dileep/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
