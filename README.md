@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Gopika-Dileep/Leetcode/tree/master/0001-two-sum) |
 | [0771-jewels-and-stones](https://github.com/Gopika-Dileep/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Gopika-Dileep/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [2325-decode-the-message](https://github.com/Gopika-Dileep/Leetcode/tree/master/2325-decode-the-message) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Gopika-Dileep/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Gopika-Dileep/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Gopika-Dileep/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Gopika-Dileep/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Gopika-Dileep/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Gopika-Dileep/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2325-decode-the-message](https://github.com/Gopika-Dileep/Leetcode/tree/master/2325-decode-the-message) |
 | [2942-find-words-containing-character](https://github.com/Gopika-Dileep/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Gopika-Dileep/Leetcode/tree/master/3110-score-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Gopika-Dileep/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
