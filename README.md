@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Gopika-Dileep/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1925-count-square-sum-triples](https://github.com/Gopika-Dileep/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Gopika-Dileep/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2652-sum-multiples](https://github.com/Gopika-Dileep/Leetcode/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Gopika-Dileep/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Gopika-Dileep/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Gopika-Dileep/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
