@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Gopika-Dileep/Leetcode/tree/master/0020-valid-parentheses) |
 | [0771-jewels-and-stones](https://github.com/Gopika-Dileep/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Gopika-Dileep/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Gopika-Dileep/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -149,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/Gopika-Dileep/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Gopika-Dileep/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
