@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Gopika-Dileep/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Gopika-Dileep/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Gopika-Dileep/Leetcode/tree/master/3285-find-indices-of-stable-mountains) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Gopika-Dileep/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Gopika-Dileep/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Gopika-Dileep/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/Gopika-Dileep/Leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gopika-Dileep/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2325-decode-the-message](https://github.com/Gopika-Dileep/Leetcode/tree/master/2325-decode-the-message) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Gopika-Dileep/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Gopika-Dileep/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Gopika-Dileep/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Gopika-Dileep/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Gopika-Dileep/Leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2769-find-the-maximum-achievable-number](https://github.com/Gopika-Dileep/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Gopika-Dileep/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Gopika-Dileep/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Gopika-Dileep/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Gopika-Dileep/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Gopika-Dileep/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/Gopika-Dileep/Leetcode/tree/master/3516-find-closest-person) |
