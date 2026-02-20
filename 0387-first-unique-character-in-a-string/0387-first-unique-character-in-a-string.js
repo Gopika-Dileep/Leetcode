@@ -3,7 +3,6 @@
  * @return {number}
  */
 var firstUniqChar = function(s) {
-    let count= 0
     let map ={}
     for(let char of s){
         map[char] = (map[char]||0)+1
