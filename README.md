@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Gopika-Dileep/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3498-reverse-degree-of-a-string](https://github.com/Gopika-Dileep/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Gopika-Dileep/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3794-reverse-string-prefix](https://github.com/Gopika-Dileep/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Recursion
 |  |
 | ------- |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Gopika-Dileep/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Gopika-Dileep/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2000-reverse-prefix-of-word](https://github.com/Gopika-Dileep/Leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [3794-reverse-string-prefix](https://github.com/Gopika-Dileep/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Stack
 |  |
 | ------- |
