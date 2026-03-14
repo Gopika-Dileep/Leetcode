@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Gopika-Dileep/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Gopika-Dileep/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Gopika-Dileep/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0290-word-pattern](https://github.com/Gopika-Dileep/Leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Gopika-Dileep/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Gopika-Dileep/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gopika-Dileep/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Gopika-Dileep/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Gopika-Dileep/Leetcode/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/Gopika-Dileep/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/Gopika-Dileep/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Gopika-Dileep/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gopika-Dileep/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/Gopika-Dileep/Leetcode/tree/master/0771-jewels-and-stones) |
