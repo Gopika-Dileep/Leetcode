@@ -9,7 +9,6 @@ var wordPattern = function (pattern, s) {
     let map2 = new Map()
     let sp = s.split(' ')
     if (pattern.length !== sp.length) return false
-    console.log(sp)
     for (let i = 0; i < pattern.length; i++) {
         let a = pattern[i]
         let b = sp[i]
