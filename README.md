@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Gopika-Dileep/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Gopika-Dileep/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/Gopika-Dileep/Leetcode/tree/master/0506-relative-ranks) |
+| [0560-subarray-sum-equals-k](https://github.com/Gopika-Dileep/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1046-last-stone-weight](https://github.com/Gopika-Dileep/Leetcode/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/Gopika-Dileep/Leetcode/tree/master/1051-height-checker) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Gopika-Dileep/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Gopika-Dileep/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Gopika-Dileep/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gopika-Dileep/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/Gopika-Dileep/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/Gopika-Dileep/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Gopika-Dileep/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gopika-Dileep/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Gopika-Dileep/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Gopika-Dileep/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/Gopika-Dileep/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/Gopika-Dileep/Leetcode/tree/master/2485-find-the-pivot-integer) |
