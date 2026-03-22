@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Gopika-Dileep/Leetcode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/Gopika-Dileep/Leetcode/tree/master/0202-happy-number) |
 | [1323-maximum-69-number](https://github.com/Gopika-Dileep/Leetcode/tree/master/1323-maximum-69-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Gopika-Dileep/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Gopika-Dileep/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Gopika-Dileep/Leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/Gopika-Dileep/Leetcode/tree/master/1925-count-square-sum-triples) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Gopika-Dileep/Leetcode/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/Gopika-Dileep/Leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Gopika-Dileep/Leetcode/tree/master/0260-single-number-iii) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Gopika-Dileep/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Gopika-Dileep/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## String Matching
 |  |
