@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Gopika-Dileep/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2325-decode-the-message](https://github.com/Gopika-Dileep/Leetcode/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/Gopika-Dileep/Leetcode/tree/master/2418-sort-the-people) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/Gopika-Dileep/Leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Gopika-Dileep/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Gopika-Dileep/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Gopika-Dileep/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Gopika-Dileep/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Gopika-Dileep/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Gopika-Dileep/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/Gopika-Dileep/Leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Gopika-Dileep/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Gopika-Dileep/Leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Math
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/Gopika-Dileep/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2325-decode-the-message](https://github.com/Gopika-Dileep/Leetcode/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/Gopika-Dileep/Leetcode/tree/master/2418-sort-the-people) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/Gopika-Dileep/Leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Gopika-Dileep/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2942-find-words-containing-character](https://github.com/Gopika-Dileep/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Gopika-Dileep/Leetcode/tree/master/3110-score-of-a-string) |
