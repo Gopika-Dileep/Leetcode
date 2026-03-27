@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Gopika-Dileep/Leetcode/tree/master/0001-two-sum) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Gopika-Dileep/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Gopika-Dileep/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Gopika-Dileep/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Gopika-Dileep/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -232,12 +233,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Gopika-Dileep/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/Gopika-Dileep/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Gopika-Dileep/Leetcode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Gopika-Dileep/Leetcode/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Gopika-Dileep/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gopika-Dileep/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Gopika-Dileep/Leetcode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Gopika-Dileep/Leetcode/tree/master/0349-intersection-of-two-arrays) |
