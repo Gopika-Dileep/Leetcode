@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gopika-Dileep/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Gopika-Dileep/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1534-count-good-triplets](https://github.com/Gopika-Dileep/Leetcode/tree/master/1534-count-good-triplets) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Gopika-Dileep/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Gopika-Dileep/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Gopika-Dileep/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1732-find-the-highest-altitude](https://github.com/Gopika-Dileep/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Gopika-Dileep/Leetcode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gopika-Dileep/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gopika-Dileep/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Gopika-Dileep/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/Gopika-Dileep/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1859-sorting-the-sentence](https://github.com/Gopika-Dileep/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Gopika-Dileep/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Gopika-Dileep/Leetcode/tree/master/0202-happy-number) |
 | [1323-maximum-69-number](https://github.com/Gopika-Dileep/Leetcode/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Gopika-Dileep/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Gopika-Dileep/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Gopika-Dileep/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Gopika-Dileep/Leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/Gopika-Dileep/Leetcode/tree/master/1925-count-square-sum-triples) |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/Gopika-Dileep/Leetcode/tree/master/1323-maximum-69-number) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Gopika-Dileep/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/Gopika-Dileep/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Gopika-Dileep/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Gopika-Dileep/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -282,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Gopika-Dileep/Leetcode/tree/master/0219-contains-duplicate-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Gopika-Dileep/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
