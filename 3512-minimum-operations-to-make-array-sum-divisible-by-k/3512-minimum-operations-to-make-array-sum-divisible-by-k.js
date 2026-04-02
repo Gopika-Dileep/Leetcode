@@ -3,14 +3,10 @@
  * @param {number} k
  * @return {number}
  */
-var minOperations = function(nums, k) {
+var minOperations = function (nums, k) {
+    let sum = nums.reduce((a, b) => a + b, 0);
+    let remainder = sum % k;
 
-    let sum = 0
+    return remainder ;
 
-    for(let i =0 ; i<nums.length; i++){
-        sum +=nums[i]
-    }
-
-    return sum%k
-    
 };
