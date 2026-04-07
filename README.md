@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/Gopika-Dileep/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Gopika-Dileep/Leetcode/tree/master/3110-score-of-a-string) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Gopika-Dileep/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Gopika-Dileep/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3498-reverse-degree-of-a-string](https://github.com/Gopika-Dileep/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Gopika-Dileep/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3794-reverse-string-prefix](https://github.com/Gopika-Dileep/Leetcode/tree/master/3794-reverse-string-prefix) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Gopika-Dileep/Leetcode/tree/master/0260-single-number-iii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Gopika-Dileep/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Gopika-Dileep/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Gopika-Dileep/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## String Matching
 |  |
 | ------- |
@@ -310,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Gopika-Dileep/Leetcode/tree/master/2413-smallest-even-multiple) |
+## Backtracking
+|  |
+| ------- |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Gopika-Dileep/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
