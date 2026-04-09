@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Gopika-Dileep/Leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Gopika-Dileep/Leetcode/tree/master/0027-remove-element) |
+| [0078-subsets](https://github.com/Gopika-Dileep/Leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gopika-Dileep/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/Gopika-Dileep/Leetcode/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gopika-Dileep/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Gopika-Dileep/Leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Gopika-Dileep/Leetcode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Gopika-Dileep/Leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Gopika-Dileep/Leetcode/tree/master/0260-single-number-iii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Gopika-Dileep/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -318,5 +320,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Gopika-Dileep/Leetcode/tree/master/0078-subsets) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Gopika-Dileep/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
