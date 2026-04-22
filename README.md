@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Gopika-Dileep/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Gopika-Dileep/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Gopika-Dileep/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/Gopika-Dileep/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Gopika-Dileep/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Gopika-Dileep/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Gopika-Dileep/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Gopika-Dileep/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1859-sorting-the-sentence](https://github.com/Gopika-Dileep/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Gopika-Dileep/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/Gopika-Dileep/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2000-reverse-prefix-of-word](https://github.com/Gopika-Dileep/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Gopika-Dileep/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Gopika-Dileep/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Gopika-Dileep/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gopika-Dileep/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Gopika-Dileep/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/Gopika-Dileep/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2000-reverse-prefix-of-word](https://github.com/Gopika-Dileep/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Gopika-Dileep/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3794-reverse-string-prefix](https://github.com/Gopika-Dileep/Leetcode/tree/master/3794-reverse-string-prefix) |
